@@ -4,7 +4,7 @@
  
  Mi Repositorio: https://github.com/Fmejias03/Tarea-4-Los-Bucles.git
  
-## Importante: El ejercicio 1 tiene varias versiones las cuales se pueden ver en el historial de la clase del ejercicio 1
+## Importante: Los ejercicios 1 y 7 tienen varias versiones las cuales se pueden ver en el historial de la clase del ejercicio que desee
 
 # Ejercicios
 ## 1. La nota media (versión 1)
