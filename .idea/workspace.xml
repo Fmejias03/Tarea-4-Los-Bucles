@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 1 V3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio4.java" afterDir="false" />
+    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Ejercicio4">
+  <component name="RunManager" selected="Application.Ejercicio5">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio1" />
       <module name="Tarea-4-Los-Bucles" />
@@ -50,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio5" />
+      <module name="Tarea-4-Los-Bucles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio4" />
         <item itemvalue="Application.Ejercicio1" />
       </list>
@@ -65,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676501169722</updated>
-      <workItem from="1676501171370" duration="1471000" />
+      <workItem from="1676501171370" duration="2496000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1 V1">
       <created>1676501621634</created>
@@ -88,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676502530702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio 4">
+      <created>1676502926150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676502926150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +125,7 @@
     <MESSAGE value="Ejercicio 1 V1" />
     <MESSAGE value="Ejercicio 1 V2" />
     <MESSAGE value="Ejercicio 1 V3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1 V3" />
+    <MESSAGE value="Ejercicio 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 4" />
   </component>
 </project>
