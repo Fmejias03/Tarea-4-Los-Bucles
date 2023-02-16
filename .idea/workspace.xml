@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" afterDir="false" />
+    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 7 V1">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,19 +24,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LnJyYXkvYSsFgNr3AwbnL14zru" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager" selected="Application.Ejercicio7">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio1" />
@@ -91,7 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676501169722</updated>
       <workItem from="1676501171370" duration="3698000" />
-      <workItem from="1676565400775" duration="330000" />
+      <workItem from="1676565400775" duration="2089000" />
+      <workItem from="1676569595021" duration="2000" />
+      <workItem from="1676569827076" duration="704000" />
+      <workItem from="1676570942870" duration="87000" />
+      <workItem from="1676571046044" duration="33000" />
+      <workItem from="1676571096352" duration="61000" />
+      <workItem from="1676575737079" duration="825000" />
+      <workItem from="1676578053179" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1 V1">
       <created>1676501621634</created>
@@ -135,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676504582877</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio 7 V1">
+      <created>1676565881815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676565881815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +173,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 1 V1" />
@@ -160,6 +181,11 @@
     <MESSAGE value="Ejercicio 4" />
     <MESSAGE value="Ejercicio 5" />
     <MESSAGE value="Ejercicio 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 6" />
+    <MESSAGE value="Ejercicio 7 V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7 V1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
