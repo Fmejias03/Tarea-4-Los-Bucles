@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 7 V1">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" afterDir="false" />
-    </list>
+    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Ejercicio9">
-    <configuration name="Ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio4" />
+}]]></component>
+  <component name="RunManager" selected="Application.Ejercicio10">
+    <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio10" />
       <module name="Tarea-4-Los-Bucles" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.Ejercicio9" />
         <item itemvalue="Application.Ejercicio7" />
         <item itemvalue="Application.Ejercicio6" />
         <item itemvalue="Application.Ejercicio5" />
-        <item itemvalue="Application.Ejercicio4" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +103,7 @@
       <workItem from="1676571046044" duration="33000" />
       <workItem from="1676571096352" duration="61000" />
       <workItem from="1676575737079" duration="825000" />
-      <workItem from="1676578053179" duration="1441000" />
+      <workItem from="1676578053179" duration="1742000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1 V1">
       <created>1676501621634</created>
@@ -157,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676565881815</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicio 7 V2">
+      <created>1676579692722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676579692722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ejercicio 9">
+      <created>1676579919890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676579919890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +193,9 @@
     <MESSAGE value="Ejercicio 5" />
     <MESSAGE value="Ejercicio 6" />
     <MESSAGE value="Ejercicio 7 V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7 V1" />
+    <MESSAGE value="Ejercicio 7 V2" />
+    <MESSAGE value="Ejercicio 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
