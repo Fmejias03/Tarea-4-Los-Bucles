@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio6.java" afterDir="false" />
+    <list default="true" id="828c3c9a-f6dd-441b-9b72-8aa9ef26249c" name="Changes" comment="Ejercicio 6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Ejercicio6">
+  <component name="RunManager" selected="Application.Ejercicio7">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio1" />
       <module name="Tarea-4-Los-Bucles" />
@@ -65,8 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7" />
+      <module name="Tarea-4-Los-Bucles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio7" />
         <item itemvalue="Application.Ejercicio6" />
         <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio4" />
@@ -82,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676501169722</updated>
-      <workItem from="1676501171370" duration="3331000" />
+      <workItem from="1676501171370" duration="3698000" />
+      <workItem from="1676565400775" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1 V1">
       <created>1676501621634</created>
@@ -119,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676503706839</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 6">
+      <created>1676504582877</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676504582877</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +151,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 1 V1" />
@@ -142,6 +159,7 @@
     <MESSAGE value="Ejercicio 1 V3" />
     <MESSAGE value="Ejercicio 4" />
     <MESSAGE value="Ejercicio 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 5" />
+    <MESSAGE value="Ejercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 6" />
   </component>
 </project>
